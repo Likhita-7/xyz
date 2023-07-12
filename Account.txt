@@ -1,0 +1,5 @@
+123,"savings account",2022-09-12,5000
+1987,"current account",2022-09-12,5000
+109,"current account",2022-09-12,5000
+987,"savings account",2021-01-12,25000
+555,"savings account",2023-04-12,55000
